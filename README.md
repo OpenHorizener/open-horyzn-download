@@ -6,7 +6,7 @@ This repository only hosts the installer for **Open Horyzn**, the copilot that l
 
 ## What you need
 
-A Mac with an Apple chip (M1 or newer) and macOS 13 or later. Intel Macs can't run it.
+A Mac with an Apple chip (M1 or newer) and macOS 26 or later. Intel Macs can't run it.
 
 ## Install
 
